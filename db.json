@@ -1,32 +1,49 @@
 {
   "blogs": [
     {
-      "title": "A Traveller’s Guide to Zipolite",
-      "subtitle": "Mexico’s Nudist Beach",
+      "title": "Waves, Culture & Calm: My Journey",
+      "subtitle": "Exploring Beaches, Temples, and Culture",
       "author": "John Doe",
       "twitter": "https://twitter.com/johndoe",
       "facebook": "https://facebook.com/johndoe",
       "instagram": "https://instagram.com/johndoe",
-      "destination": "Zipolite\"",
-      "country": "Mexico",
-      "blogDescription": "Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"Zipolite is a beautiful, peaceful beach in Mexico known for its relaxed atmosphere, amazing sunsets, and pristine coastline. This blog will guide you through the best activities, local food, and tips for first-time visitors. Enjoy the scenic views, try local delicacies, and embrace the slow-paced lifestyle.\"",
-      "id": "1751"
-    },
-    {
-      "title": "",
-      "subtitle": "",
-      "author": "",
-      "twitter": "",
-      "facebook": "",
-      "instagram": "",
-      "destination": "",
-      "country": "",
-      "blogDescription": "",
+      "destination": "Goa",
+      "country": "India",
+      "blogDescription": "Waking up early has never been my strength, but watching the sun rise from a quiet beach was worth every sleepy minute.\nThe sky slowly turning orange, the waves rolling in softly, and the sound of fishermen starting their day—it all felt like a perfect scene from a movie.\n\nI walked barefoot on the cool sand, letting the waves touch my feet as the world around me slowly woke up. That calm stayed with me through the entire trip.",
+      "imageurl": "https://i.natgeofe.com/n/8eba070d-14e5-4d07-8bab-9db774029063/93080.jpg",
       "date": "2025-11-22",
-      "id": "4c6d"
+      "id": "9997"
     },
     {
-      "id": "670b",
+      "id": "b8dd",
+      "title": "Sunsets & Serenity in Bali",
+      "subtitle": "Sunsets & Serenity in Bali",
+      "author": "John Doe",
+      "twitter": "https://twitter.com/johndoe",
+      "facebook": "https://facebook.com/johndoe",
+      "instagram": "https://instagram.com/johndoe",
+      "destination": "Bali",
+      "country": "Indonesia",
+      "blogDescription": "The golden sunsets of Bali are something everyone should witness at least once. From walking barefoot on quiet beaches to exploring lush rice terraces, Bali offers a perfect mix of calm, culture, and adventure. Small local cafes, vibrant markets, and the warm smiles of the locals make every moment memorable.Experience the calm beaches, lush rice terraces, and vibrant culture of Bali.",
+      "imageurl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "date": "2025-11-22"
+    },
+    {
+      "id": "6e99",
+      "title": "The Charm of Parisian Streets",
+      "subtitle": "Paris is a city that effortlessly blends romance",
+      "author": "John Doe",
+      "twitter": "https://twitter.com/johndoe",
+      "facebook": "https://facebook.com/johndoe",
+      "instagram": "https://instagram.com/johndoe",
+      "destination": "Paris",
+      "country": "France",
+      "blogDescription": "Paris is a city that effortlessly blends romance, history, and modern life. Strolling along the Seine, sipping coffee at quaint cafes, and wandering the cobblestone streets of Montmartre gives a sense of timeless charm. The city’s iconic landmarks, art museums, and hidden corners make it a destination you can fall in love with over and over.The golden sunsets of Bali are something everyone should witness at least once. From walking barefoot on quiet beaches to exploring lush rice terraces, Bali offers a perfect mix of calm, culture, and adventure. Small local cafes, vibrant markets, and the warm smiles of the locals make every moment memorable.",
+      "imageurl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "date": "2025-11-22"
+    },
+    {
+      "id": "9fda",
       "title": "",
       "subtitle": "",
       "author": "",
@@ -36,7 +53,23 @@
       "destination": "",
       "country": "",
       "blogDescription": "",
+      "imageurl": "",
       "date": "2025-11-22"
+    },
+    {
+      "id": "e509",
+      "title": "",
+      "subtitle": "Exploring Beaches, Temples, and Culture",
+      "author": "John Doe",
+      "twitter": "https://twitter.com/johndoe",
+      "facebook": "https://facebook.com/johndoe",
+      "instagram": "https://instagram.com/johndoe",
+      "destination": "Goa",
+      "country": "India",
+      "blogDescription": "A couple weeks ago, the Wall Street Journal (WSJ) published an op-ed entitled Evidence Backs the Transgender Social-Contagion Hypothesis. The author, Colin Wright, has been affiliated with not one, but two Southern Poverty Law Center designated anti-LGBTQ+ hate groups: SEGM and Genspect. He is also a fellow at the Manhattan Institute, a right-wing think tank. If you search for Wright online, you’ll find scores of his videos (some on far-right outlets like PragerU) and writings (some published on his bombastically titled blog “Reality’s Last Stand” which, I kid you not, to opt out of subscribing, you have to click a button that says “I don’t care about the truth”), the majority of which claim that trans people do not exist biologically speaking. (For evidence to the contrary, please consult my Biology, Sex, and Transgender People resource page.)\n\nThere are numerous problems with Wright’s op-ed, which I will address momentarily. But one major flaw is that it largely rests on a recent report published by another anti-“woke” researcher, Eric Kaufmann. In a thread on X (formerly Twitter), Kaufmann summarized his report by proclaiming that “trans identification is in free fall…\n\n",
+      "imageurl": "https://i.natgeofe.com/n/8eba070d-14e5-4d07-8bab-9db774029063/93080.jpg",
+      "date": "2025-11-23"
     }
-  ]
+  ],
+  "users":[]
 }
